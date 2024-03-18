@@ -33,6 +33,7 @@ dependencies = [
  "issue_1691",
  "issue_1705",
  "issue_1760",
+ "issue_rust_122399",
  "issue_rust_86261",
  "serde_derive",
 ]
@@ -75,6 +76,10 @@ dependencies = [
 
 [[package]]
 name = "issue_1760"
+version = "0.1.0"
+
+[[package]]
+name = "issue_rust_122399"
 version = "0.1.0"
 
 [[package]]
